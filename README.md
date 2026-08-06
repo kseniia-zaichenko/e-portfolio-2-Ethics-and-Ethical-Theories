@@ -61,3 +61,4 @@ This week I learned two new ethical theories for me: Act Utilitarianism and Rule
 I included this screenshot because Act Utilitarianism remains one of my main rules of thumb for everyday problems; I just did not know it had a name. I’m a creature of logic and a little too empathetic to get involved every time and stay cold-headed, so now I also know about the possible downsides of such an approach, based on the example shown on the screen. I tend to be egoistic, if not ignorant, when it comes to my problems or my family’s. So not judging everything through the same lens remains a challenge.
 
 ## References in CQU Harvard Style
+Sahebi, S & Montefiore, T 2026, ‘People are using AI to communicate without disclosing it. Is this morally wrong?’, *The Conversation*, 5 June, viewed 6 August 2026, https://theconversation.com/people-are-using-ai-to-communicate-without-disclosing-it-is-this-morally-wrong-283773
