@@ -26,7 +26,7 @@ The article spoke to me as it asks one of the most important questions in AI and
 
 
 ## Artefact 3: Scholary Article
-
+<img src="./artefact-3-thumbnail.png" width="700">
 
 
 
