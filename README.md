@@ -14,7 +14,7 @@
 
 
 ## Artefact 2: A News article I found this week
-
+<img src="./artefact-2-thumbnail.png" width="700">
 
 ### Summary of the artefact
 
