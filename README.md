@@ -1,7 +1,7 @@
-## Artefact 1: The ethics of technology
-[![AI’s Oppenheimer moment: the ethics of technology | Nadia Lee | TEDxSydney Salon](https://img.youtube.com/vi/W_hoPEoFGYA/hqdefault.jpg)](https://www.youtube.com/watch?v=W_hoPEoFGYA)
+## Artefact 1: Ethics of Digital Surveillance
+[![US companies enabled brutal mass detention and surveillance in China](https://img.youtube.com/vi/vGYd6emyk-0/maxresdefault.jpg)](https://www.youtube.com/watch?v=vGYd6emyk-0)
 
-https://www.youtube.com/watch?v=W_hoPEoFGYA
+https://www.youtube.com/watch?v=vGYd6emyk-0
 
 
 ### Summary of the artefact
@@ -25,7 +25,7 @@ The article spoke to me as it asks one of the most important questions in AI and
 
 
 
-## Artefact 3: Scholary Article
+## Artefact 3:  A short video I found this week
 <img src="./artefact-3-thumbnail.png" width="700">
 https://www.sciencedirect.com/science/article/pii/S0263237326000836
 
@@ -58,8 +58,8 @@ I included this screenshot because Act Utilitarianism remains one of my main rul
 
 ## References in CQU Harvard Style
 
-Parent-Rocheleau, X, Provost Savard, Y & Ollier-Malaterre, A 2026, ‘Unveiling big brother: the limits of transparency in mitigating the effects of electronic workplace surveillance’, European Management Journal. DOI: 10.1016/j.emj.2026.07.006
+
 
 Sahebi, S & Montefiore, T 2026, ‘People are using AI to communicate without disclosing it. Is this morally wrong?’, *The Conversation*, 5 June, viewed 6 August 2026, https://theconversation.com/people-are-using-ai-to-communicate-without-disclosing-it-is-this-morally-wrong-283773
 
-TEDx Talks 2025, AI’s Oppenheimer moment: the ethics of technology | Nadia Lee | TEDxSydney Salon, video, 10 January, viewed 7 August 2026, https://www.youtube.com/watch?v=W_hoPEoFGYA
+Aunevik, V [var.aunevik] 2026, Ethics washing, social media post, 29 June, viewed 7 August 2026, https://www.instagram.com/reel/DaIx6SVNckh/
