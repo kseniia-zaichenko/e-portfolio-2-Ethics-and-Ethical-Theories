@@ -1,6 +1,5 @@
 ## Artefact 1: Ethics of Digital Surveillance
 [![US companies enabled brutal mass detention and surveillance in China](https://img.youtube.com/vi/vGYd6emyk-0/maxresdefault.jpg)](https://www.youtube.com/watch?v=vGYd6emyk-0)
-
 https://www.youtube.com/watch?v=vGYd6emyk-0
 
 
@@ -58,8 +57,8 @@ I included this screenshot because Act Utilitarianism remains one of my main rul
 
 ## References in CQU Harvard Style
 
-
-
-Sahebi, S & Montefiore, T 2026, ‘People are using AI to communicate without disclosing it. Is this morally wrong?’, *The Conversation*, 5 June, viewed 6 August 2026, https://theconversation.com/people-are-using-ai-to-communicate-without-disclosing-it-is-this-morally-wrong-283773
+Associated Press 2026, US companies enabled brutal mass detention and surveillance in China, video, 5 May, viewed 8 August 2026, https://www.youtube.com/watch?v=vGYd6emyk-0
 
 Aunevik, V [var.aunevik] 2026, Ethics washing, social media post, 29 June, viewed 7 August 2026, https://www.instagram.com/reel/DaIx6SVNckh/
+
+Sahebi, S & Montefiore, T 2026, ‘People are using AI to communicate without disclosing it. Is this morally wrong?’, *The Conversation*, 5 June, viewed 6 August 2026, https://theconversation.com/people-are-using-ai-to-communicate-without-disclosing-it-is-this-morally-wrong-283773
