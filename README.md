@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=vGYd6emyk-0
 
 
 ## Artefact 2: A News article I found this week
-<img src="./artefact-2-thumbnail.png" width="700">
+<img src="./artefact-2-thumbnail.png">
 https://theconversation.com/people-are-using-ai-to-communicate-without-disclosing-it-is-this-morally-wrong-283773
 
 ### Summary of the artefact
@@ -45,8 +45,7 @@ https://www.sciencedirect.com/science/article/pii/S0263237326000836
 **Workshop Week 4, 4 August 2026. Tutor: Gitte Galea. Online Campus**
 
 ## Proof of attendance
-
-<img src="./workshop-selfie-w4.png" width="700">
+<img src="./workshop-selfie-w4.png">
 
 ### Summary of the artefact: My Personal Reflection
 
