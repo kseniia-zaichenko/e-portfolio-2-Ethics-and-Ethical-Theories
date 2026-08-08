@@ -60,4 +60,6 @@ Associated Press 2026, US companies enabled brutal mass detention and surveillan
 
 Aunevik, V [var.aunevik] 2026, Ethics washing, social media post, 29 June, viewed 7 August 2026, https://www.instagram.com/reel/DaIx6SVNckh/
 
+Galea, G 2026, Week 4 Lecture: Ethics and Ethical Theories, COIT11223: ICT Ethics and Governance in Society, CQUniversity, viewed 4 August 2026, http://moodle.cqu.edu.au
+
 Sahebi, S & Montefiore, T 2026, ‘People are using AI to communicate without disclosing it. Is this morally wrong?’, *The Conversation*, 5 June, viewed 6 August 2026, https://theconversation.com/people-are-using-ai-to-communicate-without-disclosing-it-is-this-morally-wrong-283773
