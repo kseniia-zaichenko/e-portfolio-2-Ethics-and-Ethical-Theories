@@ -43,8 +43,7 @@ I chose this artifact because it connects directly to Week 4 content, which exam
 <img src="./workshop-selfie-w4.png">
 
 ### Summary of the artefact: My Personal Reflection
-
-This week I learned two new ethical theories for me: Act Utilitarianism and Rule Utilitarianism. I was also fascinated by the workshop’s discussion on justifications of ethical dilemmas by three David’s.
+This week, I learned about Act Utilitarianism. Although I already knew the other ethical theories discussed in the workshop and had even seen Act Utilitarianism in action, I had never come across its direct definition. Galea (2026) explains that this calculus forces us to blindly "assume the reliability of the data". Later, during the class discussion on how easily these ethical calculations can fall apart in the real world because we “cannot predict consequences with certainty” (Galea 2026), I realised that although we may all hope to maximise happiness, our judgement will always be influenced by our own assumptions and limited understanding of what others consider beneficial, which left me perturbed.
 
 ### Justification on why I chose the artefact
 I included this screenshot because Act Utilitarianism remains one of my main rules of thumb for everyday problems; I just did not know it had a name. I’m a creature of logic and a little too empathetic to get involved every time and stay cold-headed, so now I also know about the possible downsides of such an approach, based on the example shown on the screen. I tend to be egoistic, if not ignorant, when it comes to my problems or my family’s. So not judging everything through the same lens remains a challenge.
