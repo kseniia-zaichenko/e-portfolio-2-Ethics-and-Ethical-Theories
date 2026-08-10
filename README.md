@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=xSPRouBvgFE
 In the video, Véliz (2025) examines privacy as protecting people from abuses of power, which contradicts the popular notion that privacy is purely about protecting personal data. Véliz cites historical examples of how government-collected information has been used to persecute people and explains why digitalisation can enhance surveillance. I was struck by the author's emphasis that technology is not neutral, and therefore its development requires conscious ethical decisions, even though many of us (like me in the past) think of technology as simply technology (as in the well-known example of a knife. A knife isn't a bad thing simply because it can cause harm).
 
 ### Justification on why I chose the artefact
-
+I chose this aretefact as the key takaway from it for me was that are not neutral. Author tells us that when we turn the analog into the digital we make something that wasn't trackable trackable, searchable, and tagable (Véliz 2025). It is facinating problem for the humanity. At this point of time, we are not only dependent on the tecknology ourseleves, we also very vulnerabile becase of it, trackable, searchable, and tagable. 
 
 
 
