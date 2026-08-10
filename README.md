@@ -1,6 +1,5 @@
-## Artefact 1: Ethics of Digital Surveillance
-[![US companies enabled brutal mass detention and surveillance in China](https://img.youtube.com/vi/vGYd6emyk-0/maxresdefault.jpg)](https://www.youtube.com/watch?v=vGYd6emyk-0)
-https://www.youtube.com/watch?v=vGYd6emyk-0
+## Artefact 1: Privacy in the Context of ICT Ethics
+[![How privacy can save your life | Carissa Véliz | TEDxPorto](https://img.youtube.com/vi/xSPRouBvgFE/maxresdefault.jpg)](https://www.youtube.com/watch?v=xSPRouBvgFE)
 
 
 ### Summary of the artefact
@@ -25,18 +24,13 @@ The article spoke to me as it asks one of the most important questions in AI and
 
 
 ## Artefact 3:  A short video I found this week
-<img src="./artefact-3-thumbnail.png" width="700">
-https://www.sciencedirect.com/science/article/pii/S0263237326000836
-
-
+<img src="./artefact-3-thumbnail.png">
+https://www.instagram.com/reel/DYHaPEgNUYk/?igsh=MXYzcjRrbjRneGw5Yg==
 
 ### Summary of the aretfact
-
-
-
+The reel by Aunevik (2026) disputes how technologies designed to simplify life influence human behaviour and autonomy. I was interested in the reference to Henry David Thoreau and his idea that people can become "tools of their tools.", as  (need to finish). The author gives several examples of situations where people become tools of their tools, the most important of which for me is the use of AI agents to perform their work. Although the video focuses on AI and its relationship to reality, the author also raises the issue of the ethics of technology in the context of phones. "Phones were supposed to give us freedom, but now we rely on them," which is a very complex ethical question that everyone must answer for themselves: "Do technologies remain tools that serve people, or are convenience and automation gradually making people dependent on the systems they create and helpless without them?
 
 ### Justification on why I chose the artefact
-
 
 
 
@@ -56,10 +50,10 @@ I included this screenshot because Act Utilitarianism remains one of my main rul
 
 ## References in CQU Harvard Style
 
-Associated Press 2026, US companies enabled brutal mass detention and surveillance in China, video, 5 May, viewed 8 August 2026, https://www.youtube.com/watch?v=vGYd6emyk-0
-
-Aunevik, V [var.aunevik] 2026, Ethics washing, social media post, 29 June, viewed 7 August 2026, https://www.instagram.com/reel/DaIx6SVNckh/
+Aunevik, V [var.aunevik] 2026, Are we becoming the Tools of our Tools?, social media post, 9 May, viewed 9 August 2026, https://www.instagram.com/reel/DYHaPEgNUYk/?igsh=MXYzcjRrbjRneGw5Yg==
 
 Galea, G 2026, Week 4 Lecture: Ethics and Ethical Theories, COIT11223: ICT Ethics and Governance in Society, CQUniversity, viewed 4 August 2026, http://moodle.cqu.edu.au
 
 Sahebi, S & Montefiore, T 2026, ‘People are using AI to communicate without disclosing it. Is this morally wrong?’, *The Conversation*, 5 June, viewed 6 August 2026, https://theconversation.com/people-are-using-ai-to-communicate-without-disclosing-it-is-this-morally-wrong-283773
+
+Véliz, C 2025, How privacy can save your life | Carissa Véliz | TEDxPorto, video, 12 October, viewed 9 August 2026, https://www.youtube.com/watch?v=xSPRouBvgFE
