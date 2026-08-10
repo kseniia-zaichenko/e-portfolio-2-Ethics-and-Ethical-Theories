@@ -1,5 +1,6 @@
 ## Artefact 1: Privacy in the Context of ICT Ethics
-[![How privacy can save your life | Carissa Véliz | TEDxPorto](https://img.youtube.com/vi/xSPRouBvgFE/maxresdefault.jpg)](https://www.youtube.com/watch?v=xSPRouBvgFE)
+![How privacy can save your life | Carissa Véliz | TEDxPorto](https://img.youtube.com/vi/xSPRouBvgFE/maxresdefault.jpg)
+https://www.youtube.com/watch?v=xSPRouBvgFE
 
 
 ### Summary of the artefact
