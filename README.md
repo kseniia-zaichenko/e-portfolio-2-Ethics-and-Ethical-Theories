@@ -25,10 +25,10 @@ The article spoke to me as it asks one of the most important questions in ICT et
 https://www.instagram.com/reel/DYHaPEgNUYk/?igsh=MXYzcjRrbjRneGw5Yg==
 
 ### Summary of the aretfact
-The reel by Aunevik (2026) uses Thoreau’s railway example to question whether technologies that promise to save time and effort can instead reduce human autonomy and create dependence. Although the video is once again cursed by an AI focus shift in modern ethics, the author ultimately questions the ethics of technology, asking whether we are using technology or whether technology is beginning to use us.
+The reel by Aunevik (2026) uses Thoreau’s railway example to question whether technologies that promise to save time and effort can instead reduce human autonomy and create dependence. Although the video is once again cursed by an AI focus shift in modern ethics, the author touches on the ethics of technology by trying to determine whether we are using technology or whether technology is using us.
 
 ### Justification on why I chose the artefact
-I chose this short video as it connects to the Virtue Ethics discussed in the workshop and examines what qualities and habits a person needs for a good life. Furthermore, according to Kantianism, human dignity lies in being rational and autonomous, and this video made me question whether most people are autonomous nowadays.  After watching this video, I fear that technology gives us greater capability while making us less capable without it.
+I chose this short video because it connects to the Virtue Ethics discussed in the workshop and examines what qualities and habits a person needs for a good life. Furthermore, this video made me question whether most people are autonomous nowadays, given Kant’s definition of human dignity in being rational and autonomous.  After watching this video, I fear that technology gives us greater capability while making us less capable without it.
 
 ## Artefact 4: Workshop Personal Reflection
 
