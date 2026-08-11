@@ -17,7 +17,7 @@ https://theconversation.com/people-are-using-ai-to-communicate-without-disclosin
 The article by Sahebi and Montefiore (2026) explores whether using generative AI in communication without disclosure constitutes morally unacceptable deception. The authors compare two cases: using AI to enhance work notes and using it to write a eulogy for a funeral, showing that the ethics of such behaviour depends on the context and the significance of the concealed information.
 
 ### Justification on why I chose the artefact
-The article spoke to me as it asks one of the most important questions in ICT ethics: what false impression of you, your feelings, abilities, or efforts will another person form if you hide the use of AI or other technology? I liked that it touches on a limitation of Kantianism discussed in the workshop from the perspective of AI misuse, where Kant’s perfect duty to tell the truth creates a conflict. You are left to choose: use an AI-generated eulogy and conceal its origin, or refuse and let your mother down. I was also fascinated by how undisclosed AI use weakens trust in human communication today, as people can no longer reliably see text as reflecting true thoughts, feelings, and efforts. Perhaps we, as a society, have to develop contextual norms for AI disclosure, distinguishing between simple language assistance and full content generation, sooner than I hoped.
+The article spoke to me as it asks an important question: what false impression of you, your feelings, abilities, or efforts will another person form if you hide the use of AI or other technology? I also liked that it touches on a limitation of Kantianism discussed in the workshop from the perspective of AI misuse, where Kant’s perfect duty to tell the truth creates a conflict. You are left to choose: use an AI-generated eulogy and conceal its origin, or refuse and let your mother down. Finally, I was fascinated by how undisclosed AI use weakens trust in human communication today, as people can no longer reliably see text as reflecting true thoughts, feelings, and efforts. Society may therefore need contextual norms for AI disclosure, distinguishing between simple language assistance and full content generation, to preserve human trust.
 
 
 ## Artefact 3:  A short video I found this week
@@ -28,7 +28,7 @@ https://www.instagram.com/reel/DYHaPEgNUYk/?igsh=MXYzcjRrbjRneGw5Yg==
 The reel by Aunevik (2026) uses Thoreau’s railway example to question whether technologies that promise to save time and effort can instead reduce human autonomy and create dependence. Although the video is once again cursed by an AI focus shift in modern ethics, the author touches on the ethics of technology by trying to determine whether we are using technology or whether technology is using us.
 
 ### Justification on why I chose the artefact
-I chose this short video because it connects to the Virtue Ethics discussed in the workshop and examines what qualities and habits a person needs for a good life. Furthermore, this video made me question whether most people are autonomous nowadays, given Kant’s definition of human dignity in being rational and autonomous.  After watching this video, I fear that technology gives us greater capability while making us less capable without it.
+I picked this short video because it connects to the Virtue Ethics discussed in the workshop and examines what qualities and habits a person needs for a good life. Furthermore, this video made me question whether most people are autonomous nowadays, given Kant’s definition of human dignity in being rational and autonomous.  After watching this video, I fear that technology gives us greater capability while making us less capable without it.
 
 ## Artefact 4: Workshop Personal Reflection
 
@@ -38,10 +38,11 @@ I chose this short video because it connects to the Virtue Ethics discussed in t
 <img src="./workshop-selfie-w4.png">
 
 ### Summary of the artefact: My Personal Reflection
-This week, I discovered Act Utilitarianism, which deepened my understanding of Utilitarianism. Act Utilitarianism evaluates specific actions by weighing their expected benefits and harms. During our class discussion, Galea (2026) noted that we “cannot predict consequences with certainty”. It was a point that weighed on me, as even when we aim to maximise happiness, our ethical judgments still depend on assumptions about outcomes and what others may consider beneficial.
+This week, I discovered Act Utilitarianism, which deepened my understanding of Utilitarianism. Later, during our class discussion on the case study for Act Utilitarianism, Galea (2026) noted that we “cannot predict consequences of an action with certainty”, a point that weighed on me, as even when we aim to maximise happiness, our ethical judgments still depend on just assumptions and what others may consider beneficial.
 
 ### Justification on why I chose the artefact
 I included this screenshot because Act Utilitarianism and the highway routing example made me reflect on societal cognitive biases. It made me realise that a utilitarian approach adopted for the sake of maximised happiness risks causing catastrophic harm to marginalised minority groups, whether it’s animals from the example or real people and their lives.
+
 
 ## References in CQU Harvard Style
 Aunevik, V [var.aunevik] 2026, Are we becoming the Tools of our Tools?, social media post, 9 May, viewed 9 August 2026, https://www.instagram.com/reel/DYHaPEgNUYk/?igsh=MXYzcjRrbjRneGw5Yg==
