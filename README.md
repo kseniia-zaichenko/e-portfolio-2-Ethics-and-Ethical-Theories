@@ -40,7 +40,7 @@ I chose this short video as it connects directly to the Virtue Ethics discussed 
 <img src="./workshop-selfie-w4.png">
 
 ### Summary of the artefact: My Personal Reflection
-This week, I explored Act Utilitarianism, which deepened my understanding of Utilitarianism in general. Thus, Act Utilitarianism evaluates specific actions by weighing their expected benefits and harms. During our class discussion, Galea (2026) noted that we “cannot predict consequences with certainty”. It weighed on me that even when we aim to maximise happiness, our ethical judgments still depend on assumptions about outcomes and what others may consider beneficial.
+This week, I explored Act Utilitarianism, which deepened my understanding of Utilitarianism more broadly. Act Utilitarianism evaluates specific actions by weighing their expected benefits and harms. During our class discussion, Galea (2026) noted that we “cannot predict consequences with certainty”, a point that weighed on me, as even when we aim to maximise happiness, our ethical judgments still depend on assumptions about outcomes and what others may consider beneficial.
 
 ### Justification on why I chose the artefact
 I included this screenshot because Act Utilitarianism and the highway routing example made me reflect on societal cognitive biases. It made me realise that a utilitarian approach adopted for the sake of maximised happiness risks causing catastrophic harm to marginalised minority groups, whether it’s animals from the example or real people and their lives.
