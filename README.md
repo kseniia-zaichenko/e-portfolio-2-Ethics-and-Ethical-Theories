@@ -40,10 +40,10 @@ I chose this short video as it connects directly to the Virtue Ethics discussed 
 <img src="./workshop-selfie-w4.png">
 
 ### Summary of the artefact: My Personal Reflection
-This week, I explored Act Utilitarianism, which deepened my understanding of Utilitarianism. Unlike Rule Utilitarianism, which assesses whether following a moral rule maximises happiness, Act Utilitarianism evaluates a specific action based on its expected benefits and harms to everyone affected. During class discussion on how these calculations can fail in real life because we can't predict consequences with certainty (Galea 2026), I realised that despite our goal to maximise happiness, our judgments are always influenced by our own assumptions and limited understanding of others' benefits, which left me perturbed.
+This week, I explored Act Utilitarianism, which deepened my understanding of Utilitarianism in general. Thus, Act Utilitarianism evaluates specific actions by weighing their expected benefits and harms. During our class discussion, Galea (2026) noted that we “cannot predict consequences with certainty”. It weighed on me that even when we aim to maximise happiness, our ethical judgments still depend on assumptions about outcomes and what others may consider beneficial.
 
 ### Justification on why I chose the artefact
-I included this screenshot because Act Utilitarianism made me reflect on my cognitive biases: being analytical is useful, but if the data we input into our calculus is imperfect, the most logical decisions can lead to catastrophic consequences. On a broader societal level, this underscores a critical flaw in current policymaking: as governments usually adopt a utilitarian approach to maximise happiness for the majority, they risk causing catastrophic harm to marginalised minority groups.
+I included this screenshot because Act Utilitarianism and the highway routing example made me reflect on societal cognitive biases. It made me realise that a utilitarian approach adopted for the sake of maximised happiness risks causing catastrophic harm to marginalised minority groups, whether it’s animals from the example or real people and their lives.
 
 ## References in CQU Harvard Style
 
