@@ -3,7 +3,8 @@
 https://www.youtube.com/watch?v=xSPRouBvgFE
 
 ### Summary of the artefact
-In the video, Véliz (2025) examines privacy as protection against abuses of power, challenging the popular notion that it is purely about safeguarding personal data. Véliz (2025) cites historical examples, including the infamous use of IBM Hollerith punch-card machines during the Holocaust, to show how government-collected information has been used to persecute people, and explains how digitalisation can enhance surveillance. The video reminds us that "no technology is ever neutral" and that "surveillance technologies are not neutral; they invite you to control" (Véliz 2025).
+
+In the video, Véliz (2025) examines privacy as protection against abuses of power, challenging the popular notion that it is purely about safeguarding personal data. The video reminds us that "no technology is ever neutral" by citing historical examples, including the infamous use of IBM Hollerith punch-card machines during the Holocaust, to show how government-collected information has been used to persecute people, and explains how digitalisation can enhance surveillance (Véliz 2025).
 
 ### Justification on why I chose the artefact
 I chose this video because it left me fascinated and concerned, as the author states that “when we turn the analog into the digital, we make something that wasn't trackable trackable, searchable, and taggable” (Véliz 2025). I find this an engrossing problem for humanity: now we are not only dependent on technology, but we are also very vulnerable because of it; we have become trackable, searchable, and taggable. I realised that "design is about ethics and ethics is nothing above and beyond very good design" (Véliz 2025), as we have to consider the power that technology creates.
