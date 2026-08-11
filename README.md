@@ -17,7 +17,7 @@ https://theconversation.com/people-are-using-ai-to-communicate-without-disclosin
 The article by Sahebi and Montefiore (2026) explores whether using generative AI in communication without disclosure constitutes morally unacceptable deception. The authors compare two cases: using AI to enhance work notes and using it to write a eulogy for a funeral, showing that the ethics of such behaviour depends on the context and the significance of the concealed information.
 
 ### Justification on why I chose the artefact
-The article spoke to me as it asks an important question: what false impression of you, your feelings, abilities, or efforts will another person form if you hide the use of AI or other technology? I also liked that it touches on a limitation of Kantianism discussed in the workshop from the perspective of AI misuse, where Kant’s perfect duty to tell the truth creates a conflict (Quinn 2015). You are left to choose: use an AI-generated eulogy and conceal its origin, or refuse and let your mother down. Finally, I was fascinated by how undisclosed AI use weakens trust in human communication today, as people can no longer reliably see text as reflecting true thoughts, feelings, and efforts. Society may therefore need contextual norms for AI disclosure, distinguishing between simple language assistance and full content generation, to preserve human trust.
+This article spoke to me as it asks an important question: what false impression of you, your feelings, abilities, or efforts will another person form if you hide the use of AI or other technology? I also liked that it touches on a limitation of Kantianism discussed in the workshop from the perspective of AI misuse, where Kant’s perfect duty to tell the truth creates a conflict (Quinn 2015). You are left to choose: use an AI-generated eulogy and conceal its origin, or refuse and let your mother down. Finally, I was fascinated by how undisclosed AI use weakens trust in human communication today, as people can no longer reliably see text as reflecting true thoughts, feelings, and efforts. Society may therefore need contextual norms for AI disclosure, distinguishing between simple language assistance and full content generation, to preserve human trust.
 
 
 ## Artefact 3:  A short video I found this week
@@ -25,7 +25,7 @@ The article spoke to me as it asks an important question: what false impression 
 https://www.instagram.com/reel/DYHaPEgNUYk/?igsh=MXYzcjRrbjRneGw5Yg==
 
 ### Summary of the aretfact
-The reel by Aunevik (2026) uses Thoreau’s railway example to question whether technologies that promise to save time and effort can instead reduce human autonomy and create dependence. Although the video is once again cursed by an AI focus shift in modern ethics, the author touches on the ethics of technology by trying to determine whether we are using technology or whether technology is using us.
+The reel by Aunevik (2026) uses Thoreau’s railway example to question whether technologies that promise to save time and effort can instead reduce human autonomy and create dependence. The video ends by returning to its central question of whether technology still serves us, or whether we have begun to serve it: “We are free in proportion to the number of conveniences we can afford to refuse” (Aunevik 2026).
 
 ### Justification on why I chose the artefact
 I picked this short video because it connects to the Virtue Ethics discussed in the workshop and examines what qualities and habits a person needs for a good life. Furthermore, this video made me question whether most people are autonomous nowadays, given Kant’s definition of human dignity in being rational and autonomous (Quinn 2015).  After watching this video, I fear that technology gives us greater capability while making us less capable without it.
@@ -54,3 +54,6 @@ Quinn, MJ 2015, *Ethics for the information age, global edition*, 6th edn, E-boo
 Sahebi, S & Montefiore, T 2026, ‘People are using AI to communicate without disclosing it. Is this morally wrong?’, *The Conversation*, 5 June, viewed 6 August 2026, https://theconversation.com/people-are-using-ai-to-communicate-without-disclosing-it-is-this-morally-wrong-283773
 
 Véliz, C 2025, How privacy can save your life | Carissa Véliz | TEDxPorto, video, 12 October, viewed 9 August 2026, https://www.youtube.com/watch?v=xSPRouBvgFE
+
+## AI Use Statement
+Grammarly’s proofreading features were used to check and refine the grammar, wording, and punctuation of the original text.
