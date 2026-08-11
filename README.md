@@ -3,10 +3,10 @@
 https://www.youtube.com/watch?v=xSPRouBvgFE
 
 ### Summary of the artefact
-In the video, Véliz (2025) examines privacy as protection against abuses of power, challenging the popular notion that it is purely about safeguarding personal data. The video reminds us that "no technology is ever neutral" by citing historical examples, including the infamous use of IBM Hollerith punch-card machines during the Holocaust, to show how government-collected information has been used to persecute people, and explains how digitalisation can enhance surveillance (Véliz 2025).
+In the video, Véliz (2025) examines privacy as protection against abuses of power, challenging the popular notion that it is purely about safeguarding personal data. The video reminds us that "no technology is ever neutral" by citing the infamous use of IBM Hollerith punch-card machines during the Holocaust to show how government-collected information has been used to persecute people, and explains how digitalisation can enhance surveillance (Véliz 2025).
 
 ### Justification on why I chose the artefact
-I chose this video because it left me both fascinated and concerned, as the author presented an engrossing problem for humanity: now we are not only dependent on technology but also vulnerable because of it; we have become trackable, searchable, and taggable. I loved that the author emphasises the importance of ethics in ICT, saying that "ethics is nothing above and beyond very good design" (Véliz 2025), and that we have to consider the power that technology creates.
+I chose this video because it left me both fascinated and concerned, as the author presented an engrossing problem for humanity: now we are not only dependent on technology but also vulnerable because of it; we have become trackable, searchable, and taggable. I also loved that the author emphasises the importance of ethics in ICT, saying that "ethics is nothing above and beyond very good design" (Véliz 2025), and that we have to consider the power that technology creates.
 
 
 ## Artefact 2: A News article I found this week
@@ -14,10 +14,10 @@ I chose this video because it left me both fascinated and concerned, as the auth
 https://theconversation.com/people-are-using-ai-to-communicate-without-disclosing-it-is-this-morally-wrong-283773
 
 ### Summary of the artefact
-The article by Sahebi and Montefiore (2026) examines whether using generative AI in communication without disclosure constitutes morally unacceptable deception. The authors compare two cases: using AI to enhance work notes and using it to write a eulogy for a funeral, showing that the ethics of such behaviour depends on the context and the significance of the concealed information. To address complex cases like a eulogy, the authors propose disclosing the use of AI in situations where its involvement is significant.
+The article by Sahebi and Montefiore (2026) explores whether using generative AI in communication without disclosure constitutes morally unacceptable deception. The authors compare two cases: using AI to enhance work notes and using it to write a eulogy for a funeral, showing that the ethics of such behaviour depends on the context and the significance of the concealed information.
 
 ### Justification on why I chose the artefact
-The article spoke to me as it asks one of the most important questions in ICT ethics: what false impression of you, your feelings, abilities, or efforts will another person form if you hide the use of AI or other technology? I liked that it touches on a limitation of Kantianism discussed in the workshop from the perspective of AI misuse, where Kant’s perfect duty to tell the truth creates a conflict. You are left to choose: use an AI-generated eulogy and conceal its origin, or refuse and let your mother down. I was also fascinated by how the covert use of AI weakens trust in human communication today, as people can no longer reliably regard text as reflecting someone’s true thoughts, feelings, and efforts. Perhaps we, as a society, have to develop contextual norms for AI disclosure, distinguishing between simple language assistance and full content generation, sooner than we all hoped.
+The article spoke to me as it asks one of the most important questions in ICT ethics: what false impression of you, your feelings, abilities, or efforts will another person form if you hide the use of AI or other technology? I liked that it touches on a limitation of Kantianism discussed in the workshop from the perspective of AI misuse, where Kant’s perfect duty to tell the truth creates a conflict. You are left to choose: use an AI-generated eulogy and conceal its origin, or refuse and let your mother down. I was also fascinated by how undisclosed AI use weakens trust in human communication today, as people can no longer reliably see text as reflecting true thoughts, feelings, and efforts. Perhaps we, as a society, have to develop contextual norms for AI disclosure, distinguishing between simple language assistance and full content generation, sooner than I hoped.
 
 
 ## Artefact 3:  A short video I found this week
@@ -38,7 +38,7 @@ I chose this short video as it connects to the Virtue Ethics discussed in the wo
 <img src="./workshop-selfie-w4.png">
 
 ### Summary of the artefact: My Personal Reflection
-This week, I explored Act Utilitarianism, which deepened my understanding of Utilitarianism more broadly. Act Utilitarianism evaluates specific actions by weighing their expected benefits and harms. During our class discussion, Galea (2026) noted that we “cannot predict consequences with certainty”, a point that weighed on me, as even when we aim to maximise happiness, our ethical judgments still depend on assumptions about outcomes and what others may consider beneficial.
+This week, I discovered Act Utilitarianism, which deepened my understanding of Utilitarianism. Act Utilitarianism evaluates specific actions by weighing their expected benefits and harms. During our class discussion, Galea (2026) noted that we “cannot predict consequences with certainty”. It was a point that weighed on me, as even when we aim to maximise happiness, our ethical judgments still depend on assumptions about outcomes and what others may consider beneficial.
 
 ### Justification on why I chose the artefact
 I included this screenshot because Act Utilitarianism and the highway routing example made me reflect on societal cognitive biases. It made me realise that a utilitarian approach adopted for the sake of maximised happiness risks causing catastrophic harm to marginalised minority groups, whether it’s animals from the example or real people and their lives.
