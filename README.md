@@ -2,13 +2,11 @@
 ![How privacy can save your life | Carissa Véliz | TEDxPorto](https://img.youtube.com/vi/xSPRouBvgFE/maxresdefault.jpg)
 https://www.youtube.com/watch?v=xSPRouBvgFE
 
-
 ### Summary of the artefact
 In the video, Véliz (2025) examines privacy as protection against abuses of power, challenging the popular notion that it is purely about safeguarding personal data. Véliz (2025) cites historical examples, including the infamous use of IBM Hollerith punch-card machines during the Holocaust, to show how government-collected information has been used to persecute people, and explains how digitalisation can enhance surveillance. The video reminds us that "no technology is ever neutral" and that "surveillance technologies are not neutral; they invite you to control" (Véliz 2025).
 
 ### Justification on why I chose the artefact
-I chose this video because it left me fascinated and concerned, as the author tells us that “when we turn the analog into the digital, we make something that wasn't trackable trackable, searchable, and taggable” (Véliz 2025). I find this an engrossing problem for humanity: at this point, we are not only dependent on technology, but we are also very vulnerable because of it; we have become trackable, searchable, and taggable. Before watching the video, I mostly thought about technology in terms of what it allows us to do. Afterwards, I am frightened by what technology allows others to do to us. I realised that "design is about ethics and ethics is nothing above and beyond very good design", as we have to consider the power that technology creates (Véliz 2025).
-
+I chose this video because it left me fascinated and concerned, as the author states that “when we turn the analog into the digital, we make something that wasn't trackable trackable, searchable, and taggable” (Véliz 2025). I find this an engrossing problem for humanity: now we are not only dependent on technology, but we are also very vulnerable because of it; we have become trackable, searchable, and taggable. I realised that "design is about ethics and ethics is nothing above and beyond very good design" (Véliz 2025), as we have to consider the power that technology creates.
 
 
 ## Artefact 2: A News article I found this week
@@ -21,7 +19,6 @@ The article by Sahebi and Montefiore (2026) explains three forms of deception by
 
 ### Justification on why I chose the artefact
 The article spoke to me as it asks one of the most important questions in AI and IT ethics: what false impression of you, your feelings, abilities, or efforts will another person form if you hide the use of AI? It also touches on the limitation of Kantianism discussed in the workshop, as context can sometimes justify non-disclosure of AI, whereas Kant's strict duty to tell the truth leaves little room for exceptions. The idea of using AI to write a mother's eulogy struck a deep chord. Not only did I learn about the three forms of deception by AI or robots, but I also began to consider the abuse of AI beyond academic or corporate contexts. It is wrong to take credit for work done by an AI, but can an AI-generated eulogy for a mother be considered disrespectful to the deceased? For society, in my view, this means that in the future the covert use of AI could weaken trust in human communication, as people will no longer be able to reliably regard messages as reflecting the sender's thoughts, feelings, and efforts. Perhaps we, as a society, will need to develop contextual norms for AI disclosure, distinguishing between simple language assistance and full content generation. And each person will then need to decide for themselves how to use AI, if at all.
-
 
 
 ## Artefact 3:  A short video I found this week
