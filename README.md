@@ -16,7 +16,7 @@ https://theconversation.com/people-are-using-ai-to-communicate-without-disclosin
 The article by Sahebi and Montefiore (2026) explores whether using generative AI in communication without disclosure constitutes morally unacceptable deception. The authors compare two cases: using AI to enhance work notes and using it to write a eulogy for a funeral, showing that the ethics of such behaviour depends on the context and the significance of the concealed information.
 
 ### Justification on why I chose the artefact
-This article spoke to me because it connects to a limitation of Kantianism in workshop theory, where Kant’s perfect duty to tell the truth creates a conflict when AI is misused in a very sensitive matter (Quinn 2015). It also asks an important question: what false impression of you, your feelings, abilities, or efforts will another person form if you hide your use of AI or other technology? I could not answer that yet, but I was fascinated by how it weakens trust in modern human communication, as people can no longer believe in others’ thoughts, feelings, and efforts. Society may therefore need contextual norms for AI disclosure, distinguishing between simple language assistance and full content generation, to preserve human trust.
+This article spoke to me because it connects to a limitation of Kantianism in workshop theory, where Kant’s perfect duty to tell the truth creates a conflict when AI is misused in a very sensitive matter (Quinn 2015). It also asks an important question: what false impression of you, your feelings, abilities, or efforts will another person form if you hide your use of AI or other technology? I could not answer that yet, but I was fascinated by how it weakens trust in modern human communication, as people can no longer believe in others’ thoughts, feelings, and efforts. Soon, society will have to develop contextual norms for AI disclosure, distinguishing between simple language assistance and full content generation, to preserve human trust.
 
 
 ## Artefact 3:  A short video I found this week
@@ -24,10 +24,10 @@ This article spoke to me because it connects to a limitation of Kantianism in wo
 https://www.instagram.com/reel/DYHaPEgNUYk/?igsh=MXYzcjRrbjRneGw5Yg==
 
 ### Summary of the aretfact
-The reel by Aunevik (2026) uses Thoreau's example of the railroad and his famous quote, "Men became the tools of their tools" (Thoreau 1854, cited in Aunevik 2026, 0:39), to question whether technologies that promise to save time and effort may instead reduce human autonomy and create dependency. The video ends by returning to its central question of whether technology still serves us, or whether we have begun to serve it: “We are free in proportion to the number of conveniences we can afford to refuse” (Aunevik 2026, 1:04).
+The reel by Aunevik (2026) uses Thoreau's example of the railroad and his famous quote, "Men became the tools of their tools" (Thoreau 1854, cited in Aunevik 2026, 0:39), to question whether technologies that promise to save time and effort may instead reduce human autonomy and create dependency. The video ends by returning to its central question of whether technology still serves us, or whether we have begun to serve it: “We are free in proportion to the number of conveniences we can afford to refuse” (Thoreau 1854, cited in Aunevik 2026, 1:04).
 
 ### Justification on why I chose the artefact
-I picked this short video because it connects to the Virtue Ethics discussed in the workshop and examines what qualities and habits a person needs for a good life. Furthermore, this video made me question whether most people are autonomous nowadays, given Kant’s definition of human dignity in being rational and autonomous (Quinn 2015).  After watching this video, I fear that technology gives us greater capability while making us less capable without it.
+I picked this short video because it connects to the Virtue Ethics discussed in the workshop through what qualities and skills a person needs for a good life. Furthermore, this video made me question whether most people are autonomous nowadays, given Kant’s definition of human dignity in being rational and autonomous (Quinn 2015).  After watching this video, I fear that technology gives us greater capability while making us less capable without it.
 
 ## Artefact 4: Workshop Personal Reflection
 
@@ -37,10 +37,10 @@ I picked this short video because it connects to the Virtue Ethics discussed in 
 <img src="./workshop-selfie-w4.png">
 
 ### Summary of the artefact: My Personal Reflection
-This week, I discovered Act Utilitarianism, which deepened my understanding of Utilitarianism. Later, during our class discussion on the case study for Act Utilitarianism, Galea (2026) noted that we “cannot predict consequences of an action with certainty”, a point that weighed on me, as even when we aim to maximise happiness, our ethical judgments still depend on just assumptions and what others may consider beneficial.
+This week, I discovered Act Utilitarianism, which deepened my understanding of ethics. Later, during our class discussion on the case study for Act Utilitarianism, Galea (2026) noted that we “cannot predict consequences of an action with certainty”. I was shocked by my subsequent thought that even when we aim to maximise happiness, our ethical judgments still depend on assumptions and what others may consider beneficial.
 
 ### Justification on why I chose the artefact
-I included this screenshot because Act Utilitarianism and the highway routing example made me reflect on societal cognitive biases. It made me realise that a utilitarian approach adopted for the sake of maximised happiness risks causing catastrophic harm to marginalised minority groups, whether it’s animals from the example or real people and their lives.
+I included this screenshot because Act Utilitarianism and the highway routing example made me reflect on societal cognitive biases. It made me realise that a utilitarian approach adopted for the sake of maximised happiness risks causing catastrophic harm to marginalised minority groups, whether it is animals from the example or real people's lives.
 
 
 ## References in CQU Harvard Style
