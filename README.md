@@ -3,7 +3,6 @@
 https://www.youtube.com/watch?v=xSPRouBvgFE
 
 ### Summary of the artefact
-
 In the video, Véliz (2025) examines privacy as protection against abuses of power, challenging the popular notion that it is purely about safeguarding personal data. The video reminds us that "no technology is ever neutral" by citing historical examples, including the infamous use of IBM Hollerith punch-card machines during the Holocaust, to show how government-collected information has been used to persecute people, and explains how digitalisation can enhance surveillance (Véliz 2025).
 
 ### Justification on why I chose the artefact
@@ -15,11 +14,10 @@ I chose this video because it left me both fascinated and concerned, as the auth
 https://theconversation.com/people-are-using-ai-to-communicate-without-disclosing-it-is-this-morally-wrong-283773
 
 ### Summary of the artefact
-
 The article by Sahebi and Montefiore (2026) examines whether using generative AI in communication without disclosure constitutes morally unacceptable deception. The authors compare two cases: using AI to enhance work notes and using it to write a eulogy for a funeral, showing that the ethics of such behaviour depends on the context and the significance of the concealed information. To address complex cases like a eulogy, the authors propose disclosing the use of AI in situations where its involvement is significant.
 
 ### Justification on why I chose the artefact
-The article spoke to me as it asks one of the most important questions in AI and IT ethics: what false impression of you, your feelings, abilities, or efforts will another person form if you hide the use of AI? It also touches on the limitation of Kantianism discussed in the workshop, as context can sometimes justify non-disclosure of AI, whereas Kant's strict duty to tell the truth leaves little room for exceptions. I also began to consider the abuse of AI beyond academic or corporate contexts. It is wrong to take credit for work done by an AI, but can an AI-generated eulogy for a mother be considered disrespectful to the deceased? I think the covert use of AI weakens trust in human communication, as people will no longer be able to reliably regard any form of text as reflecting the sender's thoughts, feelings, and efforts. Perhaps we, as a society, will need to develop contextual norms for AI disclosure, distinguishing between simple language assistance and full content generation. And each person will then need to decide for themselves how to use AI, if at all.
+The article spoke to me as it asks one of the most important questions in ICT ethics: what false impression of you, your feelings, abilities, or efforts will another person form if you hide the use of AI or other technology? I liked that it touches on a limitation of Kantianism discussed in the workshop from the perspective of AI misuse, where Kant’s perfect duty to tell the truth creates a conflict. You are left to choose: use an AI-generated eulogy and conceal its origin, or refuse and let your mother down. I was also fascinated by how the covert use of AI weakens trust in human communication today, as people can no longer reliably regard text as reflecting someone’s true thoughts, feelings, and efforts. Perhaps we, as a society, have to develop contextual norms for AI disclosure, distinguishing between simple language assistance and full content generation, sooner than we all hoped.
 
 
 ## Artefact 3:  A short video I found this week
@@ -47,7 +45,6 @@ This week, I explored Act Utilitarianism, which deepened my understanding of Uti
 I included this screenshot because Act Utilitarianism and the highway routing example made me reflect on societal cognitive biases. It made me realise that a utilitarian approach adopted for the sake of maximised happiness risks causing catastrophic harm to marginalised minority groups, whether it’s animals from the example or real people and their lives.
 
 ## References in CQU Harvard Style
-
 Aunevik, V [var.aunevik] 2026, Are we becoming the Tools of our Tools?, social media post, 9 May, viewed 9 August 2026, https://www.instagram.com/reel/DYHaPEgNUYk/?igsh=MXYzcjRrbjRneGw5Yg==
 
 Galea, G 2026, Week 4 Lecture: Ethics and Ethical Theories, COIT11223: ICT Ethics and Governance in Society, CQUniversity, viewed 4 August 2026, http://moodle.cqu.edu.au
