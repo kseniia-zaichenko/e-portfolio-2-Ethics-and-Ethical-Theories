@@ -24,7 +24,7 @@ This article spoke to me as it asks an important question: what false impression
 https://www.instagram.com/reel/DYHaPEgNUYk/?igsh=MXYzcjRrbjRneGw5Yg==
 
 ### Summary of the aretfact
-The reel by Aunevik (2026) uses Thoreau’s railway example to question whether technologies that promise to save time and effort can instead reduce human autonomy and create dependence. The video ends by returning to its central question of whether technology still serves us, or whether we have begun to serve it: “We are free in proportion to the number of conveniences we can afford to refuse” (Aunevik 2026).
+Aunevik's (2026) reel uses Thoreau's example of the railroad and his famous quote, "Men became the tools of their tools" (Thoreau 1854, cited in Aunevik 2026, 0:39), to question whether technologies that promise to save time and effort may instead reduce human autonomy and create dependency. The video ends by returning to its central question of whether technology still serves us, or whether we have begun to serve it: “We are free in proportion to the number of conveniences we can afford to refuse” (Aunevik 2026, 1:04).
 
 ### Justification on why I chose the artefact
 I picked this short video because it connects to the Virtue Ethics discussed in the workshop and examines what qualities and habits a person needs for a good life. Furthermore, this video made me question whether most people are autonomous nowadays, given Kant’s definition of human dignity in being rational and autonomous (Quinn 2015).  After watching this video, I fear that technology gives us greater capability while making us less capable without it.
@@ -55,4 +55,4 @@ Sahebi, S & Montefiore, T 2026, ‘People are using AI to communicate without di
 Véliz, C 2025, How privacy can save your life | Carissa Véliz | TEDxPorto, video, 12 October, viewed 9 August 2026, https://www.youtube.com/watch?v=xSPRouBvgFE
 
 ## AI Use Statement
-Grammarly’s proofreading features were used to check and refine the grammar, wording, and punctuation of the original text.
+Grammarly’s proofreading features were used to check and refine the grammar, wording, and punctuation of the original text. Additionally, ChatGPT was used to assist with the referencing format for Artefact 3, as it involved a complex case of a source within a source in a social media post.
